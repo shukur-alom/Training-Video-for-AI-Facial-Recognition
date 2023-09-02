@@ -1,5 +1,7 @@
 # face-recognition-new-level-yolo
 
+our main objective is make facial recognition easier just put one 4 to 5 seconds video for one class the follow this steps
+
 **Getting Started:**
 
 1. Clone the Repository:
