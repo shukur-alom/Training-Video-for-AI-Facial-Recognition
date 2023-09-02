@@ -1,0 +1,7 @@
+names:
+- naima
+- shukur
+nc: 2
+test: /home/shukur/Documents/online learning image classifi yolov8/data/test/images
+train: /home/shukur/Documents/online learning image classifi yolov8/data/train/images
+val: /home/shukur/Documents/online learning image classifi yolov8/data/valid/images

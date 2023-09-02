@@ -1,0 +1,6 @@
+#Python 3.10.12
+ultralytics==8.0.159
+opencv-python==4.7.0.68
+numpy==1.25.2
+PyYAML==6.0.1
+pytest-shutil==1.7.0
